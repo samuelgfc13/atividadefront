@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/atividadefront/static/css/main.ef3b417f.css",
+    "main.js": "/atividadefront/static/js/main.65f13b2f.js",
+    "static/media/fundo.png": "/atividadefront/static/media/fundo.634e6bd472eff6edd80e.png",
+    "index.html": "/atividadefront/index.html",
+    "main.ef3b417f.css.map": "/atividadefront/static/css/main.ef3b417f.css.map",
+    "main.65f13b2f.js.map": "/atividadefront/static/js/main.65f13b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef3b417f.css",
+    "static/js/main.65f13b2f.js"
+  ]
+}
