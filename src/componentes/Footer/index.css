@@ -1,0 +1,18 @@
+footer {
+    display: flex;
+    background-color: #6278F7;
+    background-image: url("./fundo.png");
+    padding: 20px;
+}
+
+.itens img {
+    width: 20px;
+    padding: 25px;
+}
+
+h4 {
+    right:20px;
+    position:absolute;
+    color: aliceblue;
+    font-size: 20px;
+}
